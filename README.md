@@ -1,4 +1,4 @@
-# Bio Link Tree
+# Bio links
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/pubwriter/pen/KKBQOdY](https://codepen.io/pubwriter/pen/KKBQOdY).
+Kman Studio: [https://kmanstudio.dora.run](https://kmanstudio.dora.run).
 
